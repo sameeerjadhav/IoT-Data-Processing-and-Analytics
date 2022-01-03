@@ -22,8 +22,8 @@ IoT Real-time Data Processing and Analytics using Apache Spark / Kafka
 - PySpark processes and analyzes them in real-time by using Spark Streaming, and show the results
 
 ##### Key Technologies:
-- Apache Spark (Spark Streaming))(PySpark)
 - Apache Kafka
+- Apache Spark (Spark Streaming)(PySpark)
 
 
 ## 2. Format of sensor data
